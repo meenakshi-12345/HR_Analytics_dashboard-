@@ -91,15 +91,9 @@ This dashboard helps organizations to:
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Add your dashboard screenshot here in GitHub after uploading the image.)*
-
----
-
 ## 👩‍💻 Author
 
-**Millie**
+**Meenakshi Rajpurohit**
 B.Tech Computer Science Student | Aspiring Data Analyst
 
 ---
@@ -107,3 +101,4 @@ B.Tech Computer Science Student | Aspiring Data Analyst
 ## ⭐ If you like this project
 
 Give this repository a **star** and feel free to share feedback!
+
